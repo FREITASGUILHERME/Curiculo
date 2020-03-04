@@ -1,6 +1,24 @@
 h1{
-    text-align: end;
+   
+    text-align: center;
+    
+    
 }
-head{
-    color: aquamarine;
+body {
+    background-color: rgb(173, 173, 173);
+    border-style: solid ;
+    border-color: rgb(0, 0, 0) ;
+}
+h2{
+
+background: rgb(119, 119, 119);
+
+
+
+}
+img{
+    position: absolute;
+    left: 900px;
+    top: 120px;
+    border: double 5px ;
 }
